@@ -1,0 +1,26 @@
+{
+  "_comment": "FICHIER PUBLIE. Modifiez-le ici, sur GitHub, et les annonces changent sur tous les telephones dans l'heure, sans mise a jour de l'application. Champs: id et title obligatoires. body, phone, image, link, from, to facultatifs. Liste vide = aucun encart affiche.",
+  "version": 2,
+  "ads": [
+    {
+      "id": "exemple-boissons",
+      "title": "Exemple — Grossiste boissons",
+      "body": "Remise 8 % a partir de 20 packs. Livraison Biskra et Batna.",
+      "phone": "0660000000",
+      "image": "",
+      "link": "https://www.facebook.com/",
+      "from": "2026-01-01",
+      "to": "2030-12-31"
+    },
+    {
+      "id": "exemple-detergents",
+      "title": "Exemple — Depot detergents",
+      "body": "Nouveau catalogue disponible. Paiement a 15 jours pour les habitues.",
+      "phone": "0770000000",
+      "image": "",
+      "link": "",
+      "from": "2026-01-01",
+      "to": "2030-12-31"
+    }
+  ]
+}
